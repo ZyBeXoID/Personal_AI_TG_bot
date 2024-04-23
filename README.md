@@ -16,7 +16,7 @@ pip install openai telebot
 
 2. Зарегистрировать своего бота на Telegram, используя [@BotFather](https://t.me/BotFather) и получить токен для доступа к API Telegram.
 
-3. Получить API key deepseek https://platform.deepseek.com/.
+3. Получить API key deepseek <https://platform.deepseek.com/>.
 
 4. Пример файла config.py:
 
@@ -38,9 +38,9 @@ chat_completion = client.chat.completions.create(
 
 После установки и запуска бота, вы можете начать диалог с ним в Telegram. Он будет отвечать на ваши запросы, помогая вам писать код. Просто напишите ему свой код и он даст вам соответствующие рекомендации.
 
-## Контакты : 
+## Контакты
 
-Если у вас есть вопросы или проблемы, вы можете со мной связаться через мой профиль на GitHub или по электронной почте: arkanoidalex@gmail.com
+Если у вас есть вопросы или проблемы, вы можете со мной связаться через мой профиль на GitHub или по электронной почте: <arkanoidalex@gmail.com>
 
 ## Лицензия
 
