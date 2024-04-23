@@ -25,7 +25,7 @@ telegram_bot_token = "ваш токен доступа к API Telegram"
 deepseek_api_key = "ваш deepseek API token"
 ```
 
-6. Так же можно в main.py сменить модель ИИ с deepseek.coder на deepseek.chat, если требуется просто бот ИИ:
+5. Так же можно в main.py сменить модель ИИ с deepseek.coder на deepseek.chat, если требуется просто бот ИИ:
 
 ```python
 chat_completion = client.chat.completions.create(
